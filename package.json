@@ -19,7 +19,7 @@
         "vue": "^2.6.10",
         "vue-loader": "^15.7.0",
         "webpack": "^4.39.2",
-        "webpack-cli": "^3.3.6"
+        "webpack-cli": "^3.3.12"
     },
     "dependencies": {
         "css-loader": "^2.1.1",
